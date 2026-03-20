@@ -7,6 +7,10 @@ import (
 	"strings"
 )
 
+func main() {
+	task6()
+}
+
 func task6() {
 	type Name struct {
 		fname string
